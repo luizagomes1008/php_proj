@@ -15,5 +15,6 @@
             <a href="index.php">Início</a>
             <a href="produtos/listar.php">Produtos</a>
             <a href="login.php">Login</a>
+            <a href="logout.php">logout</a>
         </nav>
     </header>
